@@ -1,7 +1,7 @@
 /*
 	ISYS 320
-	Name(s):
-	Date: 
+	Name(s): Dave Rapp
+	Date: 3-26-18
 */
 
 public class P6_Scientific {
